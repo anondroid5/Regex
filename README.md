@@ -1,6 +1,8 @@
 # Regex
 正規表現
 
+This File Always Update New Regex Code
+
 # LICENSE
     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
