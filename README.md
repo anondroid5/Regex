@@ -116,9 +116,9 @@ This File Always Update
     does not normally print such an announcement, your work based on
     the Program is not required to print an announcement.)
 
-These requirements apply to the modified work as a whole.  If
-identifiable sections of that work are not derived from the Program,
-and can be reasonably considered independent and separate works in
+    These requirements apply to the modified work as a whole.  If
+    identifiable sections of that work are not derived from the Program,
+    and can be reasonably considered independent and separate works in
 themselves, then this License, and its terms, do not apply to those
 sections when you distribute them as separate works.  But when you
 distribute the same sections as part of a whole which is a work based
