@@ -1,7 +1,6 @@
 # Regex
-正規表現
 
-This File Always Update New Regex Code
+This File Always Update
 
 # LICENSE
     GNU GENERAL PUBLIC LICENSE
